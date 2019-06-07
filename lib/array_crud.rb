@@ -6,8 +6,7 @@ def create_an_array
   some_array = ["bananas", "apples", "lemons", "mint"]
 end
 
-def add_element_to_end_of_array(array, element)
-  some_array = ["bananas", "apples", "lemons", "mint"]
+def add_element_to_end_of_array(some_array, "mango")
   some_array << "mango"
 end
 
