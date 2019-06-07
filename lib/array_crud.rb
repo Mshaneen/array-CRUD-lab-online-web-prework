@@ -27,7 +27,7 @@ def retrieve_element_from_index(some_array, 2)
 end
 
 def retrieve_first_element_from_array(some_array)
-  
+  some_array.first
 end
 
 def retrieve_last_element_from_array(some_array)
